@@ -5,4 +5,5 @@ To run:
   npm start
 #+end_src
 ====================================================
+
 We made a Pokemon based game with dialogue only. Your options for levels are: 1) easy, 2) hard. Options for Pokemon are (in their English names): 1) Pikachu, 2) Slowking, and 3) Mister Mime. Options for location/place/region are: 1) Uppsala, 2) Göteborg, and 3) Stockholm. Try and catch the pokemon on easy or hard mode.
